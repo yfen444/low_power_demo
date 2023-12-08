@@ -102,7 +102,7 @@ typedef enum
 /* Private variables ---------------------------------------------------------*/
 
 I2C_HandleTypeDef hi2c3;
-RTC_HandleTypeDef hrtc;
+//RTC_HandleTypeDef hrtc;
 /* USER CODE BEGIN PV */
 static uint8_t print_buf[DBG_IF_MAX_BUFFER_SIZE] = {0};
 
